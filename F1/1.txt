@@ -1,2 +1,3 @@
 this is F11 st file
 1st bug is solved 
+is there any more bugs?
