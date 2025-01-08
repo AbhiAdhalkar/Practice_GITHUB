@@ -1,2 +1,1 @@
 this is F11 st file
-1st bug resolved.
