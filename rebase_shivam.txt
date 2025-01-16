@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 New updates from main side.
+=======
+updates resolved by shivam side
+>>>>>>> fe1c2f5 (shivam side)
